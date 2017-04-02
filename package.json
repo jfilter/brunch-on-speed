@@ -1,0 +1,29 @@
+{
+  "name": "brunch-app",
+  "description": "Brunch.io application",
+  "private": true,
+  "author": "Brunch",
+  "version": "0.0.1",
+  "repository": "",
+  "scripts": {
+    "start": "LOGGY_STACKS=true brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "dependencies": {
+    "bootstrap": "^3",
+    "jquery": "^3"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "^2",
+    "babel-brunch": "~6.0",
+    "babel-preset-latest": "^6",
+    "babel-preset-stage-0": "^6",
+    "brunch": "^2",
+    "eslint": "^3",
+    "eslint-config-airbnb-base": "^11",
+    "eslint-plugin-import": "^2",
+    "pleeease-brunch": "^3",
+    "uglify-js-brunch": "^2",
+    "sass-brunch": "^2"
+  }
+}
