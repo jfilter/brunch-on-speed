@@ -13,12 +13,12 @@ Clone this repo manually or use `brunch new DIRECTORY -s jfilter/brunch-on-speed
 * Uglification and concatenation of Javascript files with [UglifyJS](http://lisperator.net/uglifyjs/)
 * Extending CSS with [Sass](http://sass-lang.com)
 * Autoprefixing, concatenation, minification (and more) of CSS files with [Pleeease (PostCSS)](http://pleeease.io)
-* [ESLint](http://eslint.org) with [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 * Auto reload of local Web server on file change
+* [ESLint](http://eslint.org) config with [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 * index.html with all essential meta tags for SEO and Social Media
 
 ## Recommendation
-To complete the development environment, I suggest the use of code linters in your favorite text editor. For [Sublime Text](http://www.sublimetext.com), I can recommend the following linters: [ESLint](https://github.com/roadhump/SublimeLinter-eslint), [Sass](https://github.com/attenzione/SublimeLinter-scss-lint) and [HTML](https://github.com/SublimeLinter/SublimeLinter-html-tidy).
+To complete the development environment, I suggest the use of code linters in your favorite text editor. For [Sublime Text](http://www.sublimetext.com), I can recommend the following: [ESLint](https://github.com/roadhump/SublimeLinter-eslint), [Sass](https://github.com/attenzione/SublimeLinter-scss-lint) and [HTML](https://github.com/SublimeLinter/SublimeLinter-html-tidy).
 
 ## Getting started with Brunch
 
