@@ -1,10 +1,10 @@
 # Brunch on Speed
 
-This is a skeleton (or boilerplate) for [Brunch](http://brunch.io), a fast and easy to configure building tool for modern Web development. The skeleton is intended to be a foundation for a long-scroll, single, static Web page. 
+This is a skeleton (or boilerplate) for [Brunch](http://brunch.io), a fast and easy to configure building tool for modern Web development. The skeleton is intended to be a foundation for a long-scroll, single, static Web page.
 
 ## Installation
 
-Clone this repo manually or use `brunch new DIRECTORY -s filter1/brunch-on-speed`
+Clone this repo manually or use `brunch new DIRECTORY -s jfilter/brunch-on-speed`
 
 ## Features
 * [Twitter Bootstrap](http://getbootstrap.com)

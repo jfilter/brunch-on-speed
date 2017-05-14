@@ -19,11 +19,12 @@
     "babel-preset-latest": "^6",
     "babel-preset-stage-0": "^6",
     "brunch": "^2",
+    "copycat-brunch": "^1.1.0",
     "eslint": "^3",
     "eslint-config-airbnb-base": "^11",
     "eslint-plugin-import": "^2",
     "pleeease-brunch": "^3",
-    "uglify-js-brunch": "^2",
-    "sass-brunch": "^2"
+    "sass-brunch": "^2",
+    "uglify-js-brunch": "^2"
   }
 }
