@@ -2,20 +2,23 @@
 
 This is a skeleton (or boilerplate) for [Brunch](http://brunch.io), a fast and easy to configure building tool for modern Web development. The skeleton is intended to be a foundation for a long-scroll, single, static Web page.
 
+[![dependencies Status](https://david-dm.org/jfilter/brunch-on-speed/status.svg?style=flat-square)](https://david-dm.org/jfilter/brunch-on-speed)
+[![devDependency Status](https://david-dm.org/jfilter/brunch-on-speed/dev-status.svg?style=flat-square)](https://david-dm.org/jfilter/brunch-on-speed#info=devDependencies)
+
 ## Installation
 
 Clone this repo manually or use `brunch new DIRECTORY -s jfilter/brunch-on-speed`
 
 ## Features
-* [Twitter Bootstrap](http://getbootstrap.com)
+* [Twitter Bootstrap v3](https://getbootstrap.com/docs/3.3/p.com)
 * [jQuery](http://jquery.com)
 * Compilation of ECMAScript 2015 (ECMAScript 6) files with [Babel](https://babeljs.io)
 * Uglification and concatenation of Javascript files with [UglifyJS](http://lisperator.net/uglifyjs/)
 * Extending CSS with [Sass](http://sass-lang.com)
 * Autoprefixing, concatenation, minification (and more) of CSS files with [Pleeease (PostCSS)](http://pleeease.io)
-* Auto reload of local Web server on file change
-* [ESLint](http://eslint.org) config with [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
-* index.html with all essential meta tags for SEO and Social Media
+* Auto reload of development server
+* [ESLint](http://eslint.org) with [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
+* index.html with essential meta tags for SEO and Social Media
 
 ## Recommendation
 To complete the development environment, I suggest the use of code linters in your favorite text editor. For [Sublime Text](http://www.sublimetext.com), I can recommend the following: [ESLint](https://github.com/roadhump/SublimeLinter-eslint), [Sass](https://github.com/attenzione/SublimeLinter-scss-lint) and [HTML](https://github.com/SublimeLinter/SublimeLinter-html-tidy).
