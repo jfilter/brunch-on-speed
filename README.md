@@ -18,6 +18,7 @@ Clone this repo manually or use `brunch new DIRECTORY -s jfilter/brunch-on-speed
 * Autoprefixing, concatenation, minification (and more) of CSS files with [Pleeease (PostCSS)](http://pleeease.io)
 * Auto reload of development server
 * [ESLint](http://eslint.org) with [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
+* Ready to format your code with [Prettier](https://prettier.io)
 * index.html with essential meta tags for SEO and Social Media
 
 ## Recommendation

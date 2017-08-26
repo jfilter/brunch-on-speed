@@ -1,9 +1,9 @@
 {
-  "name": "brunch-app",
-  "description": "Brunch.io application",
+  "name": "brunch-on-speed",
+  "description": "Skeleton for Brunch",
   "private": true,
-  "author": "Brunch",
-  "version": "0.0.1",
+  "author": "jfilter",
+  "version": "0.1.0",
   "repository": "",
   "scripts": {
     "start": "LOGGY_STACKS=true brunch watch --server",
@@ -19,11 +19,14 @@
     "babel-preset-latest": "^6",
     "babel-preset-stage-0": "^6",
     "brunch": "^2",
-    "copycat-brunch": "^1.1.0",
+    "copycat-brunch": "^1",
     "eslint": "^3",
     "eslint-config-airbnb-base": "^11",
+    "eslint-config-prettier": "^2",
     "eslint-plugin-import": "^2",
+    "eslint-plugin-prettier": "^2",
     "pleeease-brunch": "^3",
+    "prettier": "^1",
     "sass-brunch": "^2",
     "uglify-js-brunch": "^2"
   }
