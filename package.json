@@ -16,9 +16,8 @@
   "devDependencies": {
     "auto-reload-brunch": "^2",
     "babel-brunch": "^6",
-    "babel-preset-latest": "^6",
-    "babel-preset-stage-0": "^6",
     "babel-eslint": "^8",
+    "babel-preset-env": "^1",
     "brunch": "^2",
     "copycat-brunch": "^1",
     "eslint": "^4",
@@ -58,5 +57,9 @@
       ]
     }
   },
+  "babel": {
+    "presets": [
+      "env"
+    ]
   }
 }

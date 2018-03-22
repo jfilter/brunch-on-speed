@@ -9,7 +9,6 @@ exports.files = {
 };
 
 exports.plugins = {
-  babel: { presets: ['latest', 'stage-0'] },
   pleeease: {
     sass: true,
     autoprefixer: {
