@@ -29,6 +29,11 @@
     "prettier": "^1",
     "sass-brunch": "^2",
     "uglify-js-brunch": "^2"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
   "eslintConfig": {
     "parser": "babel-eslint",
     "extends": [
