@@ -18,6 +18,7 @@
     "babel-brunch": "^6",
     "babel-preset-latest": "^6",
     "babel-preset-stage-0": "^6",
+    "babel-eslint": "^8",
     "brunch": "^2",
     "copycat-brunch": "^1",
     "eslint": "^4",
@@ -29,5 +30,33 @@
     "prettier": "^1",
     "sass-brunch": "^2",
     "uglify-js-brunch": "^2"
+  "eslintConfig": {
+    "parser": "babel-eslint",
+    "extends": [
+      "airbnb-base",
+      "prettier"
+    ],
+    "plugins": [
+      "import",
+      "prettier"
+    ],
+    "env": {
+      "jquery": true,
+      "browser": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module"
+    },
+    "rules": {
+      "prettier/prettier": [
+        "error",
+        {
+          "singleQuote": true,
+          "trailingComma": "es5"
+        }
+      ]
+    }
+  },
   }
 }
