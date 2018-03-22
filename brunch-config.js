@@ -15,10 +15,6 @@ exports.plugins = {
       browsers: ['> 1%'],
     },
   },
-  copycat: {
-    fonts: ['node_modules/bootstrap/dist/fonts'],
-    onlyChanged: true,
-  },
 };
 
 exports.modules = {

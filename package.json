@@ -10,8 +10,9 @@
     "build": "brunch build --production"
   },
   "dependencies": {
-    "bootstrap": "^3",
-    "jquery": "^3"
+    "bootstrap": "^4",
+    "jquery": "^3",
+    "popper.js": "^1"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2",
@@ -19,7 +20,6 @@
     "babel-eslint": "^8",
     "babel-preset-env": "^1",
     "brunch": "^2",
-    "copycat-brunch": "^1",
     "eslint": "^4",
     "eslint-config-airbnb-base": "^12",
     "eslint-config-prettier": "^2",
